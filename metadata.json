@@ -1,0 +1,6 @@
+{
+  "name": "Strikepoint 5v5: Tactical FPS",
+  "description": "Jogo de tiro tático 5v5 em primeira pessoa inspirado em CS:GO, Standoff 2 e Call of Duty, com gráficos 3D PBR realistas, controles mobile e desktop, e servidor dedicado WebSocket de baixa latência.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
